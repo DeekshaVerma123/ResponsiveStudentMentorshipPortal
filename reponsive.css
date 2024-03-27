@@ -46,6 +46,7 @@
   }
   .imgscroll {
     width: 250px;
+     min-height: 40vh;
   }
 
   .container_announcment {
